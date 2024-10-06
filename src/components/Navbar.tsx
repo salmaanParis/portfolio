@@ -2,8 +2,6 @@
 import Link from "next/link";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 import { motion } from "framer-motion";
-import { title } from "process";
-
 import { useState } from "react";
 
 

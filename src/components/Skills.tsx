@@ -3,7 +3,7 @@ import React from 'react'
 
 import { SiTailwindcss, SiTypescript, SiNodedotjs, SiMongodb, SiNextdotjs, SiExpress } from 'react-icons/si';
 import { FaHtml5, FaCss3Alt, FaReact, FaJsSquare, FaGit, FaDocker } from 'react-icons/fa';
-import { SiRedux, SiFirebase, SiVercel, SiNetlify, SiFigma, SiFramer } from 'react-icons/si';
+import { SiRedux, SiFirebase, SiFigma, SiFramer } from 'react-icons/si';
 
 
 
