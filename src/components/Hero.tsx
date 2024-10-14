@@ -4,7 +4,7 @@ import Image from 'next/image'
 import cursor from "../assets/icon1.png"
 import lightning from "../assets/icon2.png"
 import { motion } from 'framer-motion';
-import profilepic from "../assets/profilepic.png"
+// import profilepic from "../assets/profilepic.png"
 
 const Hero = () => {
   return (
@@ -55,11 +55,11 @@ const Hero = () => {
         , Im working hard to bring you an amazing portfolio. Stay tuned!
             </p>
 
-            <Image
+{/*             <Image
                 src={profilepic}
                 alt="profile picture"
                 className='h-auto w-auto mx-auto'
-                />
+                /> */}
              </div>
         
         </div>
