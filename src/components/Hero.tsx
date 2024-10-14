@@ -38,8 +38,8 @@ const Hero = () => {
             </motion.div>
 
             <p className='text-center text-xl max-w-[500px] mx-auto mt-8 text-white/80'>
-                &quot;Portfolio Under Construction. I&apos;m working to bring you an amazing portfolio. Stay tuned!&quot;
-            </p>
+    "Portfolio Under Construction. I'm working to bring you an amazing portfolio. Stay tuned!"
+</p>
 
             <Image
                 src={profilepic}
@@ -52,5 +52,4 @@ const Hero = () => {
 }
 
 export default Hero;
-
 

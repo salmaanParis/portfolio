@@ -105,7 +105,6 @@ const Portfolio = () => {
             <h1 className='text-white text-6xl max-w-[320px] mx-auto font-semibold my-12'>
                 Selected <span className='text-orange-400'>Projects</span>
             </h1>
-
             <div className='px-6 md:px-0 max-w-[1000px] mx-auto mt-40 space-y-24'>
                 {currentProjects.map((project, index) => (
                     <motion.div
@@ -171,4 +170,3 @@ const Portfolio = () => {
 }
 
 export default Portfolio;
-
