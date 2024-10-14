@@ -8,16 +8,16 @@ function Footer() {
         <h1 className='text-2xl font-bold'>Salman Paris</h1>
 
         <div className='flex space-x-6 mt-4'>
-            <a href="#" className="hover:text-gray-300">
+            <a href="https://www.linkedin.com/in/salman-paris/" className="hover:text-gray-300">
                 <FaLinkedin size={24}/>            
              </a>
              <a href="#" className="hover:text-gray-300">
                 <FaTwitter size={24}/>            
              </a>
-             <a href="#" className="hover:text-gray-300">
+             <a href="" className="hover:text-gray-300">
                 <FaInstagram size={24}/>            
              </a>
-             <a href="#" className="hover:text-gray-300">
+             <a href="https://www.youtube.com/@salmanparis2151" className="hover:text-gray-300">
                 <FaYoutube size={24}/>            
              </a>
              

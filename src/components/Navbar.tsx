@@ -9,7 +9,8 @@ import { useState } from "react";
 const navLinks = [
     { title: "About", path: "#about"},
     { title: "Portfolio", path: "#Portfolio"},
-    
+    { title: "Skills", path: "#Skills"},
+   
     
 ];
 
@@ -65,6 +66,7 @@ const menuVariants = {
                                                     
                                                     <div className=" mt-1 absolute w-1/3 h-1 transition-all duration-300 ease-out bg-orange-600 rounded-full group-hover:w-full"></div>                                               </div>
                                             </a>
+                                            
 
 
                                     </li>

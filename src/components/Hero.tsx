@@ -51,7 +51,8 @@ const Hero = () => {
            
 
             <p className='text-center text-xl max-w-[500px] mx-auto mt-8 text-white/80'>
-                    I am a full stack developer
+                    {/* I am a full stack developer */}
+                    "Working on my portfolio! Can’t wait to share it soon!"
             </p>
 
             <Image
