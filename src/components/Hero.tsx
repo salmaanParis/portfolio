@@ -38,8 +38,9 @@ const Hero = () => {
             </motion.div>
 
             <p className='text-center text-xl max-w-[500px] mx-auto mt-8 text-white/80'>
-    "Portfolio Under Construction. I'm working to bring you an amazing portfolio. Stay tuned!"
+    &quot;Portfolio Under Construction. I&apos;m working to bring you an amazing portfolio. Stay tuned!&quot;
 </p>
+
 
             <Image
                 src={profilepic}
