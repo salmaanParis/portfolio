@@ -55,11 +55,11 @@ const Hero = () => {
         , Im working hard to bring you an amazing portfolio. Stay tuned!
             </p>
 
-{/*             <Image
+            <Image
                 src={profilepic}
                 alt="profile picture"
                 className='h-auto w-auto mx-auto'
-                /> */}
+                />
              </div>
         
         </div>
