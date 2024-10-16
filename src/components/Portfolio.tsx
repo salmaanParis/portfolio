@@ -75,7 +75,7 @@ const projects = [
         git: "#",
         isVideo: false,
     },
-    ,
+    
     {
         title: "library websiter",
         desc: "Check out my latest project—a stunning library website created using HTML, CSS, and Bootstrap! In this video, I'll showcase the design and features of the website, highlighting the clean layout, responsive design, and user-friendly interface..",
