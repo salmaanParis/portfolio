@@ -83,7 +83,7 @@ const projects = [
         link: "https://salmaanparis.github.io/Assignment-Phase2/# ",
         videolink: " https://www.youtube.com/embed/iGiNTfKZAZA?si=7imEEzKBS8v-KnAg",
         git: "https://github.com/salmaanParis/Assignment-Phase2",
-        isVideo: false,
+        isVideo: true,
     }
 ]
 
