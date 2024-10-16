@@ -75,6 +75,16 @@ const projects = [
         git: "#",
         isVideo: false,
     },
+    ,
+    {
+        title: "library websiter",
+        desc: "Check out my latest project—a stunning library website created using HTML, CSS, and Bootstrap! In this video, I'll showcase the design and features of the website, highlighting the clean layout, responsive design, and user-friendly interface..",
+        devStack: "HTML, CSS,Bootstrap.",
+        link: "https://salmaanparis.github.io/Assignment-Phase2/# ",
+        videolink: " https://www.youtube.com/embed/iGiNTfKZAZA?si=GnPEey_8dt6VEG35",
+        git: "https://github.com/salmaanParis/Assignment-Phase2",
+        isVideo: false,
+    }
 ]
 
 const projectsPerPage = 4;
