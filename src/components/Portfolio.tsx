@@ -22,7 +22,7 @@ const projects = [
         isVideo: false,
     },
     {
-        title: "Amazon clone using HTML and Tailwind CSS",
+        title: "Amazon clone ",
         desc: "I'll provide a basic template for a homepage that includes a header, product cards, and a footer. .",
         devStack: "Html, TailwindCSS.",
         link: " https://amazon-clone-seven-ochre.vercel.app/",
